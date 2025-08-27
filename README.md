@@ -1,3 +1,8 @@
+Just tap the city you want to go to, and click the "Enter" key to drive the whole machine !
+
+![splitFlaps_GIF_001-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/067bc590-d0e4-4754-b090-91655cb4fc0c)
+
+
 Some and information to take into account before diving in ! :
 
 1. Currently the display only has the space for 6-letter cities (or words) due to resolution limitations on the free Touch Designer license
