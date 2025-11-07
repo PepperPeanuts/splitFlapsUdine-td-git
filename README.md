@@ -10,3 +10,5 @@ Some and information to take into account before diving in ! :
 3. For cities (or words) featuring the character "-" , you need to place an underscore "_"
 4. "Reset Button" in the UI is used to clear the system and put all flaps on initial mode "AAAAAA"
 5. If desired, you may display only the frontal flaps by using the button in the UI
+
+Check out how the project looks >> https://www.behance.net/gallery/233802541/Interactive-Split-Flaps-on-Touch-Designer 
